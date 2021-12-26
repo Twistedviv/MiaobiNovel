@@ -7,3 +7,5 @@ The databbase include 7 or 8 category (i forget it but ... who cares) whichever 
 And every novel contains serveral chapters,u just can import it to you "Mysql" to check
 
 Ok, no more words，Need U Stars  :-)
+
+（Tips： if u use phpmyAdmin, best for u to watch out the max-size limited when u importing the database ）
